@@ -8,7 +8,4 @@
 </ul>
 <h2>Screen</h2>
 
-
-
-https://github.com/mehmetalikimici/Udemig-Build/assets/115737497/6960619c-8798-40e6-bb4b-285e2b41d050
-
+![Udemig-Build](https://github.com/mehmetalikimici/Udemig-Build/assets/115737497/438e29e4-a168-4021-8239-6d3d115c0366)
